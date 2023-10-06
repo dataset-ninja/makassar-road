@@ -1,5 +1,3 @@
+**The Semantic Segmentation Makassar (IDN) Road Dataset** is a valuable resource for computer vision and autonomous vehicle development. It comprises 374 annotated images captured in Makassar City, South Sulawesi, using a dashcam with 2560 x 1600-pixel resolution. These images are manually labeled into four classes: *Background*, *Roads*, *Lane mark solid*, and *Lane mark dashed*.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+This dataset serves as a versatile resource for training and testing semantic segmentation models, facilitating advancements in autonomous vehicles and computer vision applications. Explore the Makassar Road Dataset to drive innovation in intelligent transportation systems and related fields.
