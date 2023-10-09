@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME: str = "Makassar Road"
-PROJECT_NAME_FULL: str = "Semantic Segmentation Makassar(IDN) Road"
+PROJECT_NAME_FULL: str = "Semantic Segmentation Makassar (IDN) Road"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
