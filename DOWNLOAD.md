@@ -1,6 +1,6 @@
 Dataset **Makassar Road** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/kditukv435rntf6pnk4kq/makassar-road-DatasetNinja.tar?rlkey=2kq4kdup08hzc6q4txv1mdcr6&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI0ODhfTWFrYXNzYXIgUm9hZC9tYWthc3Nhci1yb2FkLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIjdacjg3RFJUSUoxQitEODZtM2ZzTDJLeCszNlQ5L0NXT0Fsa2Vud0JSYzA9In0=)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
